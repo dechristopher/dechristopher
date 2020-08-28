@@ -9,12 +9,8 @@
 - 🌱 I’m currently learning geospatial systems and Rust
 - ⚡ Fun fact: I'm a rock climber and high-level billiards player
 
-### Connect with me:
+### Connect with me on [LinkedIn][linkedin]
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
 
 ### Languages and Tools:
 
