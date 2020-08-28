@@ -1,4 +1,4 @@
-### Hi there, I'm Andrew 👋
+### Hello there, I'm Andrew 👋
 
 [![Website](https://img.shields.io/badge/WEBSITE-DCHR.HOST-brightgreen?style=for-the-badge)][website]
 [![JukeVote](https://img.shields.io/badge/JUKE-VOTE-brightgreen?style=for-the-badge)](https://juke.vote)
