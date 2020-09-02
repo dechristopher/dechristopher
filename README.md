@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working for Infogain at Facebook
 - 🌱 I’m currently learning geospatial systems and Rust
-- ⚡ Fun fact: I'm a rock climber and high-level billiards player
+- ⚡ Fun fact: I'm a rock climber and competitive billiards player
 
 ### Connect with me on [LinkedIn][linkedin]
 
