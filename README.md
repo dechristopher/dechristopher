@@ -35,7 +35,8 @@
 <br />
 
 ---
-<img align="left" alt="dechristopher's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=dechristopher&show_icons=true&hide_border=true&count_private=true" />
+[![trophy](https://github-profile-trophy.vercel.app/?username=dechristopher)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 [website]: https://dchr.host
 [linkedin]: https://www.linkedin.com/in/adechristopher/
