@@ -30,11 +30,11 @@
 [<img align="left" alt="Terraform" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png" />](https://www.terraform.io)
 [<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />](https://postgresql.org)
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />](https://mysql.com)
-[<img align="left" alt="Redis" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/redis-4-1175103.png" />](https://redis.io)
+[<img align="left" alt="Redis" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/redis-4-1175103.png" />](https://redis.io)  
 
-# 
 
-> [![trophy](https://github-profile-trophy.vercel.app/?username=dechristopher)](https://github.com/ryo-ma/github-profile-trophy)
+##### &nbsp;
+[![trophy](https://github-profile-trophy.vercel.app/?username=dechristopher)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 [website]: https://dchr.host
