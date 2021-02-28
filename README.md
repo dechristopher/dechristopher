@@ -6,7 +6,7 @@
 ## I'm a Boston-based Full-stack Engineer!
 
 - I’m currently working for Infogain at Facebook
-- Currently learning geospatial systems and Rust
+- Currently learning Rust and Elixir
 - Fun fact: I'm a rock climber and competitive billiards player
 
 ### Connect with me on [LinkedIn][linkedin]
