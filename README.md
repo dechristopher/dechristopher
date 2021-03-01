@@ -1,7 +1,7 @@
 ### Hello there, I'm Andrew (he/him/his) 👋
 
 [![Website](https://img.shields.io/badge/WEBSITE-DCHR.HOST-brightgreen?style=for-the-badge)][website]
-[![lioctad.org](https://img.shields.io/badge/LIOCTAD-.ORG-brightgreen?style=for-the-badge)](https://lioctad.org)
+[![lioctad.org](https://img.shields.io/badge/PLAY-LIOCTAD.ORG-brightgreen?style=for-the-badge)](https://lioctad.org)
 
 ## I'm a Boston-based Full-stack Engineer!
 
