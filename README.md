@@ -28,4 +28,4 @@
 [<img align="left" alt="Redis" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/redis-4-1175103.png" />](https://redis.io)<br />  
 
 [website]: https://dchr.host
-[linkedin]: https://www.linkedin.com/in/adechristopher/
+[linkedin]: https://www.linkedin.com/in/dchr
