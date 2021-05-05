@@ -7,7 +7,7 @@
 ## I'm a Boston-based Full-stack Engineer!
 
 - Currently working for Infogain at Facebook
-- Current interests include Rust and Elixir
+- Learning Elixir and OTP/BEAM
 - I'm a rock climber (trad, sport, bouldering in that order)
 
 ### Connect with me on [LinkedIn][linkedin]
