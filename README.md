@@ -6,7 +6,7 @@
 
 ## I'm a Boston-based Full-stack Engineer!
 
-- Full-stack Software Engineer Working for Infogain at Facebook
+- Full-stack Software Engineer working for Infogain at Facebook
 - Interests include, GIS, cartography/mapping, and platform/infra engineering
 - Currently learning Elixir and OTP/BEAM
 - I'm a rock climber (trad, sport, bouldering in that order)
