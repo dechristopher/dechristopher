@@ -9,7 +9,6 @@
 - Full-stack Software Engineer working for Infogain at Facebook
 - Interests include: cartography/mapping, cryptography, and platform engineering
 - Currently learning Elixir with OTP/BEAM, and Rust
-- I'm a rock climber (trad, sport, bouldering in that order)
 
 ### Connect with me on [LinkedIn][linkedin]  
 
