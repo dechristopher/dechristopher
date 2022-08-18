@@ -6,7 +6,7 @@
 
 ## I'm a Boston-based Full-stack Engineer!
 
-- Founder, VP of Engineering at [Fitchburg Fiber](https://fbfiber.net)
+- Founder, Director of Engineering at [Fitchburg Fiber](https://fbfiber.net)
 - Interests include: cartography/mapping, cryptography, and platform engineering
 - Currently learning Elixir with OTP/BEAM, and Rust
 
