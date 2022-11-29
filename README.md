@@ -4,11 +4,9 @@
 [![Web Map](https://img.shields.io/badge/BROWSE-MAPS-brightgreen?style=for-the-badge)](https://dchr.host/map)
 [![lioctad.org](https://img.shields.io/badge/PLAY-OCTAD-brightgreen?style=for-the-badge)](https://lioctad.org)
 
-## I'm a Boston-based Full-stack Engineer!
-
 - Founder, Director of Engineering at [Fitchburg Fiber](https://fbfiber.net)
 - Interests include: cartography/mapping, cryptography, and platform engineering
-- Currently learning Elixir with OTP/BEAM, and Rust
+- Currently learning Elixir (OTP/BEAM), and Rust
 
 ### Connect with me on [LinkedIn][linkedin]  
 
