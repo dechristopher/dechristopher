@@ -3,7 +3,7 @@
 [![lioctad.org](https://img.shields.io/badge/PLAY-OCTAD-brightgreen?style=for-the-badge)](https://lioctad.org)
 
 - Founder, Director of Engineering at [Fitchburg Fiber](https://fbfiber.net)
-- Interests include: cartography/mapping, cryptography, and platform engineering
+- Interests include: network/internet engineering, OSP infrastructure, and geospatial system design
 - Currently learning Elixir (OTP/BEAM), and Rust
 
 ### Connect with me on [LinkedIn][linkedin]  
