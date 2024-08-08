@@ -4,7 +4,6 @@
 
 - Founder, Director of Engineering at [Fitchburg Fiber](https://fbfiber.net)
 - Interests include: network/internet engineering, OSP infrastructure, and geospatial system design
-- Currently learning Elixir (OTP/BEAM), and Rust
 
 ### Connect with me on [LinkedIn][linkedin]  
 
