@@ -1,4 +1,4 @@
-[![Website](https://img.shields.io/badge/WEBSITE-DCHR.HOST-brightgreen?style=for-the-badge)][website]
+[![Website](https://img.shields.io/badge/WEBSITE-DE.TEL-brightgreen?style=for-the-badge)][website]
 [![Web Map](https://img.shields.io/badge/BROWSE-MAPS-brightgreen?style=for-the-badge)](https://dchr.host/map)
 [![lioctad.org](https://img.shields.io/badge/PLAY-OCTAD-brightgreen?style=for-the-badge)](https://lioctad.org)
 
@@ -7,5 +7,5 @@
 
 ### Connect with me on [LinkedIn][linkedin]  
 
-[website]: https://dchr.host
+[website]: https://de.tel
 [linkedin]: https://www.linkedin.com/in/dchr
