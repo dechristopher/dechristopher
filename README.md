@@ -3,9 +3,11 @@
 [![lioctad.org](https://img.shields.io/badge/PLAY-OCTAD-brightgreen?style=for-the-badge)](https://lioctad.org)
 
 - Founder, Director of Engineering at [Fitchburg Fiber](https://fbfiber.net)
+- Worker & Clerk at [Old Growth Co-op](https://og.coop)
 - Interests include: network/internet engineering, OSP infrastructure, and geospatial system design
 
-### Connect with me on [LinkedIn][linkedin]  
+#### Leave a message: +1 (508) 946-1977
+#### Connect with me on [LinkedIn][linkedin]
 
 [website]: https://de.tel
 [linkedin]: https://www.linkedin.com/in/dchr
