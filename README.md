@@ -1,6 +1,6 @@
 [![Website](https://img.shields.io/badge/WEBSITE-DE.TEL-brightgreen?style=for-the-badge)][website]
 [![Web Map](https://img.shields.io/badge/BROWSE-MAPS-brightgreen?style=for-the-badge)](https://dchr.host/map)
-[![lioctad.org](https://img.shields.io/badge/PLAY-OCTAD-brightgreen?style=for-the-badge)](https://lioctad.org)
+[![lioctad.org](https://img.shields.io/badge/PLAY-OCTAD-brightgreen?style=for-the-badge)](https://octad.gg)
 
 - Co-Founder & Director of Engineering at [Fitchburg Fiber](https://fbfiber.net)
 - Worker-Owner & Clerk at [Old Growth Co-op](https://og.coop)
